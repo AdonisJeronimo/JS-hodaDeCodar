@@ -1,0 +1,7 @@
+console.log( 2 - 1)
+console.log( typeof(2 - 1))
+console.log( 5 * 6)
+console.log( 10 / 2)
+console.log(15 % 2 )
+console.log( 10 + 5 * (5*5))
+console.log((10 + 5) * (5*5))
