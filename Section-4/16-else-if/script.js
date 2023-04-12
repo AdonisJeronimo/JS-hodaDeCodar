@@ -1,3 +1,10 @@
+/*
+ Estrutura condicional: else if
+
+Com o else if, podemos encadear mais condições, ou seja, antes de finalizarmos uma condição com o else, podemos colocar outras condições.
+
+*/
+
 let a = 5;
 let b = 3;
 

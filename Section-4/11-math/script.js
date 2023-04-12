@@ -1,3 +1,9 @@
+/*
+Função built-in: math()
+
+O math é uma biblioteca de funções matematicas, sendo ela bastante utilizada para expressões/cálculos matemáticos. EX:
+*/
+
 let maiorNumero = Math.max(1,5,2,3);
 console.log(maiorNumero)
 

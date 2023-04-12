@@ -1,3 +1,13 @@
+/*
+ Estrutura condicional: if
+
+if = se 
+
+O programa executara um bloco de código SE(if) a condição for verdadeira. A condição sendo verdadeira algo ira acontecer, onde "algo" é a condição imposta por um statement que ira nos resultar um valor boolean(true or false).
+
+*/
+
+
 let idadeUsuario = 24;
 console.log(`A idade do usuario é ${idadeUsuario}`)
 let idadeMinima = 18;
